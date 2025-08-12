@@ -1,13 +1,13 @@
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-    Title = "cat脚本",
+    Title = "猫咪脚本",
     Text = "正在加载（反挂机已开启）",
     Duration = 6, 
 })
 
 CoreGui:SetCore("SendNotification", {
-    Title = "cat脚本",
+    Title = "猫咪脚本",
     Text = "永久免费缝合",
     Duration = 7, 
 })
